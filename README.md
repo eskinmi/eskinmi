@@ -22,21 +22,28 @@ Here are some ideas to get you started:
 </p>
 
 Hi There! I'm Mustafa. I'm a Data Scientist who is interested in topics like:
-- 🤖 Generative AI
-- 🌵 Recommendation Systems 
-- 📘 NLP
-- 🌉 Image Recognition
-- 💂🏼‍♂️ Personalization
+- 🤖 **Generative AI**
+- 🌵 **Recommendation Systems** 
+- 📘 **NLP**
+- 🌉 **Image Recognition**
+- 💂🏼‍♂ ️**Personalization**
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Projects </h2>
 
 Right now I'm studying: 
 
 * [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037)
 * [Discrete Flow Networks](https://github.com/TrentBrick/PyTorchDiscreteFlows)
 * [FlexFlow](https://github.com/flexflow/FlexFlow?utm_source=tldrai)
-* [Self-Alignment with Instruction Backtranslation
-](https://arxiv.org/abs/2308.06259)
+* [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259)
+
+Learning to program with:
+<p>
+    <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="15"></a>
+    <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="15"></a>
+
+</p>
+
 
 <h2 align="left">Toolkit</h2>
 
@@ -63,6 +70,8 @@ Right now I'm studying:
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="15"></img>
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" height="15"></img>
     <img alt="Scipy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" height="15"></img>
+    <img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="15"></img>
+    <img alt="Numba" src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white" height="15"></img>
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="15"></img>
     <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" height="15"></img>
     <img alt="GitBook" src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" height="15"></img>
@@ -74,6 +83,8 @@ Right now I'm studying:
     <a href="#"><img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-4169E1?logo=postgresql&logoColor=white" height="15"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white" height="15"></a>
     <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white" height="15"></a>
+    <a href="#"><img alt="DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" height="15"></a>
+    <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="15"></a>
 </p>
 
 
@@ -97,8 +108,11 @@ Right now I'm studying:
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="15"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="15"></a>
     <a href="#"><img alt="GithubActions" src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" height="15"></a>
+    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height="15"></a>
     <a href="#"><img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="15"></a>
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="15"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+" height="15"></a>
 
 </p>
 
@@ -117,13 +131,3 @@ Right now I'm studying:
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="15"></a>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="15"></a>
 </p>
-
-
-
-<h2 align="left">WIP</h2>
-<p>
-    <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="15"></a>
-    <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="15"></a>
-
-</p>
-
