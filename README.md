@@ -43,6 +43,9 @@ Right now I'm studying:
 <h3 align="left">Programming</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="15"></img>
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="15"></img>
+    <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" height="15"></img>
+    <img alt="Latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" height="15"></img>
 </p>
 
 <h3 align="left">Analytics Platforms</h3>
