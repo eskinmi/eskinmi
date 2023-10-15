@@ -37,6 +37,7 @@ Right now I'm studying:
 * [Discrete Flow Networks](https://github.com/TrentBrick/PyTorchDiscreteFlows)
 * [FlexFlow](https://github.com/flexflow/FlexFlow?utm_source=tldrai)
 * [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259)
+* [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
 
 Learning to program with:
 <p>
